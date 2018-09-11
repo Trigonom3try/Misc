@@ -1,0 +1,9 @@
+ABOUT THE ABSTRACT MACHINE
+
+The "Abstract Machine" or AbstractApp.java started as a mental and programming exercise: to create a complete
+calculator/compiler, which to say a complete computer system which I now understand to be what is called a
+Turing-complete machine, using none of the numeric or otherwise predefined types or objects in the language in
+which it is written (Java 8 SE) : no ints, no longs, shorts, doubles, floats, chars, Strings, no classes within
+the Java 8 standard library, and as few operators as possible; instead, it was to use only booleans, conditionals,
+and the syntax for creating custom classes in Java. In short, it was to be a calculator that didn't use
+numbers, but could still do math.
